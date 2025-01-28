@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1d19fa8b63ef3a34a9979789ad7920d6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - redVersion: {instanceID: 0}
+  - regularVersion: {instanceID: 0}
+  - particleExplosion: {instanceID: 0}
+  - camera: {fileID: 2939251392436697961, guid: 65c09b4352cbbc8468542a551feca9d6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
